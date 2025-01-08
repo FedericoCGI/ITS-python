@@ -1,7 +1,6 @@
 '''
 Esercizio 1.1
-S
-i scriva un programma che dimostri la natura approssimativa dei numeri in virgola mobile effettuando le seguenti attività:
+Si scriva un programma che dimostri la natura approssimativa dei numeri in virgola mobile effettuando le seguenti attività:
 
     Memorizzare un numero in virgola mobile nella variabile x.
     Calcolare 1.0/x memorizzare il risultato nella variabile y.
