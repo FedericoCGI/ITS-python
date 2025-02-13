@@ -8,7 +8,7 @@ Si scriva un programma che dimostri la natura approssimativa dei numeri in virgo
     Sottrarre x dal prodotto tra x e y e mostrarne il risultato.
 
 '''
-
+# define variables
 x:float = 15.25
 print(f"x vale {x}")
 y:float = 1.0 / x
